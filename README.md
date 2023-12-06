@@ -1,16 +1,17 @@
 # Computer-Essientials-Assignment.
-This is a holyday assignment that will help you structure your projects better.
-Project Management Assignment
-Project Title: Web Development and User Authentication System
-Project Overview:
+This is a holiday assignment that will help you structure your projects better.
+ # Project Management Assignment
+## Project Title: 
+Web Development and User Authentication System
+## Project Overview:
 The project allows students to choose between two options:
 
-Creating a personal portfolio website using HTML and CSS.
+# Creating a personal portfolio website using HTML and CSS.
 Designing and implementing a signup/login system with data storage on XAMPP using PHP.
-Project Phases:
-Initiation Phase:
+##Project Phases:
+#Initiation Phase:
 
-Students choose their preferred project (portfolio website or signup/login system).
+#Students choose their preferred project (portfolio website or signup/login system).
 Define project objectives and scope based on the chosen project.
 Identify stakeholders and target audience for the chosen project.
 Create a project charter outlining the purpose, deliverables, and success criteria specific to the chosen project.
